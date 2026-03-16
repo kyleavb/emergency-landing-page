@@ -2,15 +2,16 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Mitchell College — New London, CT | Where Possibility Begins",
+  title:
+    "Honor the Promise to Yourself — Mitchell College Professional Studies Business",
   description:
-    "Mitchell College is a private liberal arts college on the Thames River in New London, Connecticut. Explore our academic programs, campus life, and the Mitchell Ability Model.",
+    "Complete your B.A. in Business online at Mitchell College. Transfer 60+ credits and finish your degree on your schedule. $500/credit, fully online, asynchronous.",
   keywords:
-    "Mitchell College, New London, Connecticut, liberal arts, college, Thames River, Mariners, NCAA Division III",
+    "Mitchell College, online business degree, degree completion, transfer credits, adult learners, professional studies",
   openGraph: {
-    title: "Mitchell College — Where Possibility Begins",
+    title: "Honor the Promise to Yourself — Mitchell College",
     description:
-      "A waterfront campus. A personalized education. A community that celebrates every learner.",
+      "See how your 60+ transfer credits apply toward a fully online B.A. in Business.",
     type: "website",
     locale: "en_US",
     siteName: "Mitchell College",
